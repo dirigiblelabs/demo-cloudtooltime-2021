@@ -1,5 +1,5 @@
 # Demo - Cloud Tool Time 2021 - Getting Started with Eclipse Dirigible
-[![Run on Dirigible](https://img.shields.io/badge/run%20on-dirigible-blue.svg)](http://trial.dirigible.io/services/v4/web/ide-deploy-manager/index.html?repository=https://github.com/dirigiblelabs/demo-eclipsecon2018-ide.git&uri=/services/v3/web/ide-guestbook/)
+[![Run on Dirigible](https://img.shields.io/badge/run%20on-dirigible-blue.svg)](http://trial.dirigible.io/services/v4/web/ide-deploy-manager/index.html?repository=https://github.com/dirigiblelabs/demo-cloudtooltime-2021.git&uri=/services/v4/web/ide/)
 
 ## Overview
 - "Hello World"
