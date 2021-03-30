@@ -1,0 +1,33 @@
+{
+    "name": "CUSTOMERS",
+    "type": "TABLE",
+    "columns": [
+        {
+            "name": "ID",
+            "type": "INTEGER",
+            "length": "0",
+            "nullable": "false",
+            "primaryKey": "true",
+            "defaultValue": "",
+            "$$hashKey": "object:3"
+        },
+        {
+            "type": "VARCHAR",
+            "length": 32,
+            "name": "FIRST_NAME",
+            "$$hashKey": "object:51"
+        },
+        {
+            "type": "VARCHAR",
+            "length": 32,
+            "name": "LAST_NAME",
+            "$$hashKey": "object:56"
+        },
+        {
+            "type": "INTEGER",
+            "length": null,
+            "name": "AGE",
+            "$$hashKey": "object:62"
+        }
+    ]
+}
